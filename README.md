@@ -27,5 +27,5 @@
 ---
 # Submission Required:
 - GitHub Repository Link: [Click Here](https://github.com/Abhishek-Sharma-007/Assignment_4-Tribute_Page)
-- README.md File Link: [Click Me]()
+- README.md File Link: [Click Me](https://github.com/Abhishek-Sharma-007/Assignment_4-Tribute_Page/blob/master/README.md)
 - Hosted Link: [Tap On](https://abhishek-sharma-007.github.io/Assignment_4-Tribute_Page/)
